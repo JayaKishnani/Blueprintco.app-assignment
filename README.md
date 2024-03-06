@@ -13,3 +13,5 @@ In this assignment, the goal is to develop a Python script that can analyze two 
     1. One of the methods involved edge detection using the 'createLineSegmentDetector' class and then adding (overlaying) images with relevant weights.
     2. Another method included Canny edge detection with Hough Line Probabilistic Transform, which first detected the edges and then built lines using the Hough transform. After this, overlaying was performed.
     3. Furthermore, I implemented highlighting differences through SSIM (Structural Similarity Index), thresholding, and contour detection.
+
+<b> Final output can be viewed via "my_output(1).png". </b>
